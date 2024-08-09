@@ -1,6 +1,5 @@
 Vibrant:
     - src: https://libs.jshub.com/vibrant.js/1.0.0/Vibrant.min.js
-      integrity: sha256-awcR2jno4kI5X0zL8ex0vi2z+KMkF24hUW8WePSA9HM=
       type: script
 
 PhotoSwipe:
