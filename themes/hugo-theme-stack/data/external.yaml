@@ -1,5 +1,5 @@
 Vibrant:
-    - src: https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/vibrant.js/1.0.0/Vibrant.min.js
+    - src: https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/vibrant.js/1.0.0/Vibrant.min.js
       type: script
       defer: true
 
